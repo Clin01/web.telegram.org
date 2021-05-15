@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/:match*", "destination": "https://agar.io/:match*" },
+    { "source": "/agario/:match*", "destination": "https://agar.io/:match*" },
   ]
 }
